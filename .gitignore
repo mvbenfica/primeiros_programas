@@ -1,0 +1,41 @@
+# Binários comuns
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Arquivos de build
+*.d
+*.mod
+*.dep
+*.map
+
+# Arquivos de compiladores
+*.gch
+*.pch
+*.idb
+*.pdb
+
+# Diretórios de build
+/build/
+/bin/
+/debug/
+/release/
+
+# Arquivos de backup
+*~
+*.swp
+*.swo
+*.bak
+
+# Logs
+*.log
+
+# Arquivos do CMake
+CMakeFiles/
+CMakeCache.txt
+cmak
