@@ -1,9 +1,0 @@
-{
-  "files.associations": {
-    "*.dbclient-js": "javascript",
-    ".sequelizerc": " javascript ",
-    ".stylelintrc": " json ",
-    "*.asp": "asp",
-    "ostream": "cpp"
-  }
-}
